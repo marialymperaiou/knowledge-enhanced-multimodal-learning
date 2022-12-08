@@ -9,10 +9,10 @@ This is a repository that provides a list of papers on knowledge-enhanced multim
 *  [Models](#head3)
 
 
-## Surveys
+## <span id="head1"> Surveys </span>
 - A survey on knowledge-enhanced multimodal learning (2022): https://arxiv.org/abs/2211.12328
-
-## Datasets 
+  
+## <span id="head2"> Datasets </span>
 * **KB-VQA**:  Ask me anything: Free-form visual question answering based on knowledge from external sources https://arxiv.org/abs/1511.06973
 * **Factual VQA (FVQA)**: FVQA: Fact-Based Visual Question Answering https://arxiv.org/abs/1606.05433
 * **Knowledge-aware VQA (KVQA)**: Kvqa: Knowledge-aware visual question answering https://ojs.aaai.org/index.php/AAAI/article/view/4915
@@ -23,8 +23,8 @@ This is a repository that provides a list of papers on knowledge-enhanced multim
 * **Zero-shot Fact VQA (ZS-F-VQA)**: Zero-shot visual question answering using knowledge graph https://arxiv.org/abs/2107.05348
 * **High-order Visual Question Reasoning (HVQR)**: Explainable High-order Visual Question Reasoning: A New Benchmark and Knowledge-routed Network https://arxiv.org/abs/1909.10128
 
-## Models
 
+## <span id="head3"> Models </span>
 ### Knowledge-enhanced VQA
 1. Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries https://arxiv.org/abs/1507.05670
 2. Image Captioning and Visual Question Answering Based on Attributes and External Knowledge https://ieeexplore.ieee.org/document/7934440
