@@ -6,7 +6,7 @@ This is a repository that provides a list of papers on knowledge-enhanced multim
 ## <span id="head-content"> Content </span>
 *  [Surveys](#head1)
 *  [Datasets](#head2)
-*  [Models](#head2)
+*  [Models](#head3)
 
 
 ## Surveys
