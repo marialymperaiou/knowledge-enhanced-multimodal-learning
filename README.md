@@ -1,6 +1,12 @@
-# Knowledge-enhanced multimodal learning
+# <p align=center> Knowledge-enhanced multimodal learning </p>
 This is a repository that provides a list of papers on knowledge-enhanced multimodal learning inspired by [Awesome Vision-and-Language](https://github.com/sangminwoo/awesome-vision-and-language).
 
+</div>
+
+## <span id="head-content"> Content </span>
+*  [Surveys](#head1)
+*  [Datasets](#head2)
+*  [Models](#head2)
 
 
 ## Surveys
