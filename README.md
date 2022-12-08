@@ -46,13 +46,46 @@ This is a repository that provides a list of papers on knowledge-enhanced multim
 24.  Improving and Diagnosing Knowledge-Based Visual Question Answering via Entity Enhanced Knowledge Injection https://arxiv.org/abs/2112.06888
 25.  Select, Substitute, Search: A New Benchmark for Knowledge-Augmented Visual Question Answering https://arxiv.org/abs/2103.05568
 
-
-### Knowledge-enhanced multimodal retrieval
+### Knowledge-enhanced visual commonsense reasoning
+1. KVL-BERT: Knowledge Enhanced Visual-and-Linguistic BERT for Visual Commonsense Reasoning https://arxiv.org/abs/2012.07000
+2. Vision–Language–Knowledge Co-Embedding for Visual Commonsense Reasoning https://www.mdpi.com/1424-8220/21/9/2911
+3. Multi-Level Knowledge Injecting for Visual Commonsense Reasoning https://ieeexplore.ieee.org/abstract/document/9083951
 
 ### Knowledge-enhanced visual reasoning
+1. Explainable High-order Visual Question Reasoning: A New Benchmark and Knowledge-routed Network https://arxiv.org/abs/1909.10128
+2. Explainable and Explicit Visual Reasoning over Scene Graphs https://arxiv.org/abs/1812.01855
+
+### Knowledge-enhanced image captioning
+1. Improving Image Captioning by Leveraging Knowledge Graphs https://arxiv.org/abs/1901.08942
+2. Relational Reasoning using Prior Knowledge for Visual Captioning https://arxiv.org/abs/1906.01290
+3. Image Captioning with Internal and External Knowledge https://dl.acm.org/doi/pdf/10.1145/3340531.3411948
+4. Integrating Image Captioning with Rule-based Entity Masking https://arxiv.org/abs/2007.11690
+5. Joint Commonsense and Relation Reasoning for Image and Video Captioning https://ojs.aaai.org/index.php/AAAI/article/view/6731
+6. Auto-Encoding Scene Graphs for Image Captioning https://arxiv.org/abs/1812.02378
+7. Injecting Prior Knowledge into Image Caption Generation https://arxiv.org/abs/1911.10082
+8. Boosting Entity-aware Image Captioning with Multi-modal Knowledge Graph https://arxiv.org/abs/2107.11970
+9. KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation https://arxiv.org/abs/2101.00419
+10. Unified Vision-Language Pre-Training for Image Captioning and VQA https://arxiv.org/abs/1909.11059
 
 ### Knowledge-enhanced visual storytelling
+1. Knowledgeable Storyteller: A Commonsense-Driven Generative Model for Visual Storytelling https://www.ijcai.org/proceedings/2019/744
+2. Knowledge-Enriched Visual Storytelling https://arxiv.org/abs/1912.01496
+3. Imagine, Reason and Write: Visual Storytelling with Graph Knowledge and Relational Reasoning https://ojs.aaai.org/index.php/AAAI/article/view/16410
+4. Commonsense Knowledge Aware Concept Selection For Diverse and Informative Visual Storytelling https://arxiv.org/abs/2102.02963
 
 ### Knowledge-enhanced image generation from text
+1. KG-GAN: Knowledge-Guided Generative Adversarial Networks https://arxiv.org/abs/1905.12261
+2. Integrating Visuospatial, Linguistic and Commonsense Structure into Story Visualization https://arxiv.org/abs/2110.10834
+3. StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation https://arxiv.org/abs/2209.06192
+
+### Knowledge-enhanced visual dialog
+1. Reasoning with Multi-Structure Commonsense Knowledge in Visual Dialog https://arxiv.org/abs/2204.04680
 
 ### Multi-task models
+1. Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs https://arxiv.org/abs/2010.07526
+2. Grounded Situation Recognition https://arxiv.org/abs/2003.12058
+3. Reasoning over Vision and Language: Exploring the Benefits of Supplemental Knowledge https://arxiv.org/abs/2101.06013
+4. Kb-vlp: Knowledge based vision and language pretraining https://www.microsoft.com/en-us/research/uploads/prod/2021/10/kb_vlp_ICML2021.pdf
+5. Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks https://arxiv.org/abs/2004.06165
+6. ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph https://arxiv.org/abs/2006.16934
+7. ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross- and Intra-modal Knowledge Integration https://arxiv.org/abs/2108.07073
